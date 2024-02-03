@@ -1,4 +1,4 @@
-# K4MARO's GitHub Readme
+# KAMARO's GitHub Readme
 
 Hey there! 🚀 Welcome to my GitHub profile. I'm K4MARO, a passionate developer and technology enthusiast.
 
